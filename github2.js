@@ -1,0 +1,1 @@
+console.log(ini dibuat di VS code)
